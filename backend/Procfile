@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT bergalert_4860.wsgi:application

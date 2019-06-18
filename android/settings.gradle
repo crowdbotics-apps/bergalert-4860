@@ -1,0 +1,3 @@
+rootProject.name = 'bergalert_4860'
+
+include ':app'
